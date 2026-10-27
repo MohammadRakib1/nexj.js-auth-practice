@@ -50,5 +50,67 @@
             "stock": 12,
             "rating": 4.6
         }
+    ],
+    "books": [
+        {
+            "id": "1",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "price": 350,
+            "category": "Classic Fiction",
+            "description": "A classic novel about wealth, love, and the American Dream.",
+            "image": "https://placehold.co/300x400?text=The+Great+Gatsby",
+            "publishedYear": 1925,
+            "rating": 4.5,
+            "stock": 20
+        },
+        {
+            "id": "2",
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "price": 550,
+            "category": "Self-Help",
+            "description": "A practical guide to building good habits and breaking bad ones.",
+            "image": "https://placehold.co/300x400?text=Atomic+Habits",
+            "publishedYear": 2018,
+            "rating": 4.8,
+            "stock": 35
+        },
+        {
+            "id": "3",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "price": 400,
+            "category": "Adventure",
+            "description": "A young shepherd travels in search of his personal legend.",
+            "image": "https://placehold.co/300x400?text=The+Alchemist",
+            "publishedYear": 1988,
+            "rating": 4.6,
+            "stock": 18
+        },
+        {
+            "id": "4",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "price": 450,
+            "category": "Finance",
+            "description": "A book about financial literacy, investing, and building wealth.",
+            "image": "https://placehold.co/300x400?text=Rich+Dad+Poor+Dad",
+            "publishedYear": 1997,
+            "rating": 4.4,
+            "stock": 25
+        },
+        {
+            "id": "5",
+            "title": "The Hobbit",
+            "author": "J. R. R. Tolkien",
+            "price": 500,
+            "category": "Fantasy",
+            "description": "Bilbo Baggins embarks on an unexpected journey with a group of dwarves.",
+            "image": "https://placehold.co/300x400?text=The+Hobbit",
+            "publishedYear": 1937,
+            "rating": 4.7,
+            "stock": 15
+        }
     ]
 }
